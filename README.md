@@ -7,7 +7,7 @@ Detta är en enkel kalkylator-webbapplikation byggd med HTML, CSS och JavaScript
 Öppna webbläsaren och navigera till applikationen via [emrikrellmar.github.io](https://emrikrellmar.github.io/).
 
 ## Teknologi
-
+- **Rich text format** -  RTF är ett filformat som låter dig utbyta textfiler mellan olika word processors i olika operativsystem
 - **HTML5** för att strukturera innehållet.
 - **CSS3** för layout och stil.
 - **Vanilla JavaScript** för att hantera kalkylatorns logik.
