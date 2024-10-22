@@ -42,6 +42,6 @@ För att kunna ladda ner och använda din PWA (Progressive Web App) offline, må
 3. Välj "Lägg till på hemskärmen".
 4. Ge appen ett namn och tryck på "Lägg till".
 
-## Appen kommer nu att vara tillgänglig på din hemskärm och fungerar som en fristående app med offline-stöd.
+### Appen kommer nu att vara tillgänglig på din hemskärm och fungerar som en fristående app med offline-stöd.
 
 
