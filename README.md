@@ -1,47 +1,49 @@
-# Kalkylator Web App
+# Calculator Web App
 
-Detta är en enkel kalkylator-webbapplikation byggd med HTML, CSS och JavaScript. Denna applikation tillåter användaren att göra grundläggande matematiska beräkningar som addition, subtraktion, multiplikation och division.
+This is a simple calculator web application built with HTML, CSS, and JavaScript. The application allows the user to perform basic mathematical calculations such as addition, subtraction, multiplication, and division.
 
-## Användning
+## Usage
 
-Öppna webbläsaren och navigera till applikationen via [emrikrellmar.github.io](https://emrikrellmar.github.io/) för att öppna denna PWA
+Open your browser and navigate to the application via [emrikrellmar.github.io](https://emrikrellmar.github.io/) to launch this PWA.
 
-## Teknologi
-- **Rich text format** -  RTF är ett filformat som låter dig utbyta textfiler mellan olika word processors i olika operativsystem
-- **HTML5** för att strukturera innehållet.
-- **CSS3** för layout och stil.
-- **Vanilla JavaScript** för att hantera kalkylatorns logik.
-  
-## Webbapplikation (PWA)
+## Technology
 
-Denna kalkylator fungerar som en PWA (progressive webb application), vilket innebär att den kan installeras och användas offline om den öppnas i en webbläsare som stöder PWA-teknik (som Chrome, Edge eller Safari). Alltså kan den köras som en app
+* **Rich Text Format (RTF)** - RTF is a file format that allows you to exchange text files between different word processors across various operating systems.
+* **HTML5** for structuring the content.
+* **CSS3** for layout and styling.
+* **Vanilla JavaScript** for handling the calculator logic.
 
+## Web Application (PWA)
 
-## Hur man laddar ner en PWA 
+This calculator works as a PWA (Progressive Web Application), which means it can be installed and used offline when opened in a browser that supports PWA technology (such as Chrome, Edge, or Safari). Essentially, it can run like a standalone app.
 
-För att kunna ladda ner och använda din PWA (Progressive Web App) offline, måste både din webbsida och webbläsaren vara korrekt konfigurerade.
+## How to Download a PWA
 
-#### I Chrome:
-1. När du besöker din PWA-webbsida i Chrome, bör du se en liten ikon (ett plustecken i en fyrkant) i webbläsarens adressfält, eller en banner längst ner på sidan som säger "Install App". Klicka på den.
-2. Välj "Installera" eller "Add to Home Screen".
-3. Din PWA kommer nu att installeras som en app på din enhet. Den kan köras från skrivbordet (på en dator) eller hemskärmen (på en mobil eller surfplatta), och fungerar som en fristående app som kan köras offline.
+To download and use your PWA offline, both your website and browser must be properly configured.
 
-#### I Microsoft Edge:
-1. Liknande Chrome, kommer Edge att visa en "Install App"-knapp i adressfältet om PWA-funktionerna är korrekt implementerade.
-2. Klicka på "Installera" för att lägga till appen.
+#### In Chrome:
 
-#### På Android (Chrome):
-1. Öppna appen i Chrome.
-2. En banner kan visas som erbjuder installation av appen. Om inte, tryck på menyikonen (de tre prickarna i det övre högra hörnet).
-3. Välj "Lägg till på hemskärmen".
-4. Appen kommer att laddas ner och visas som en ikon på din hemskärm.
+1. When you visit your PWA website in Chrome, you should see a small icon (a plus sign in a square) in the browser's address bar, or a banner at the bottom of the page saying "Install App." Click on it.
+2. Choose **"Install"** or **"Add to Home Screen."**
+3. Your PWA will now be installed as an app on your device. It can be launched from the desktop (on a computer) or the home screen (on a phone or tablet) and will work as a standalone app that can run offline.
 
-#### På iOS (Safari):
-1. Öppna appen i Safari.
-2. Tryck på delningsikonen längst ner i mitten av skärmen.
-3. Välj "Lägg till på hemskärmen".
-4. Ge appen ett namn och tryck på "Lägg till".
+#### In Microsoft Edge:
 
-### Appen kommer nu att vara tillgänglig på din hemskärm och fungerar som en fristående app med offline-stöd.
+1. Similar to Chrome, Edge will show an **"Install App"** button in the address bar if PWA features are properly implemented.
+2. Click **"Install"** to add the app.
 
+#### On Android (Chrome):
 
+1. Open the app in Chrome.
+2. A banner may appear offering to install the app. If not, tap the menu icon (three dots in the top-right corner).
+3. Select **"Add to Home Screen."**
+4. The app will be downloaded and displayed as an icon on your home screen.
+
+#### On iOS (Safari):
+
+1. Open the app in Safari.
+2. Tap the **Share** icon at the bottom center of the screen.
+3. Select **"Add to Home Screen."**
+4. Give the app a name and tap **"Add."**
+
+### The app will now be available on your home screen and function as a standalone app with offline support.
